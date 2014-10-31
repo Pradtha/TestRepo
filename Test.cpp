@@ -1,6 +1,6 @@
 #include<iostream>
 
-using namespace syd;
+using namespace std;
 
 int main() {
    cout<<"This is a test message";
